@@ -2,7 +2,7 @@
 
 ## Welcome to my Github Portfolio Overview!
 
-Here you can find out what coding projects I've been up to. Click here if you want to see my [Github profile](https://github.com/jhirschibar). Feel free to follow or to reach out if you'd like to collaborate!
+Here you can find out what projects I've been up to. Feel free to follow me on github or to reach out if you'd like to collaborate!
 
 Checkout [hirschibar.com](https://hirschibar.com) if you haven't yet and see my social media and other updates!
 
