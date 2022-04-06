@@ -1,15 +1,24 @@
-# Code
+# Welcome to my Github Portfolio Overview!
 
-Here you can find out what coding projects I've been up to. Click here if you want to see my [Github profile](https://github.com/jhirschibar)
+Here you can find out what coding projects I've been up to. Click here if you want to see my [Github profile](https://github.com/jhirschibar). Feel free to follow or to reach out if you'd like to collaborate!
+
+Checkout [hirschibar.com](https://hirschibar.com) if you haven't yet and see my social media and other updates!
+
+And now, on to the portfolio...
 
 
 ### Amira Invest
 
 I'm building a marketplace platform that provides the structure and the incentives needed for you to trust the investment opinions you find online.
 
-The project includes over 300 PRs, and 1200 commits with 5 contributors. Follow us here so you can join as we open source components of our app. 
+<p align="center">
+  <img src="/amira2.png" height="250">
+</p>
+The project includes over 300 PRs, and 1200 commits with 5 contributors. Follow us here so you can join as we open source components of our app. Sadly, this code is unable to be shared publically yet. But stay tuned! There may be changes soon! 😉
 
 I'm currently working on a recommendation engine which builds a unique model for each user to recommend content of most worth and relevance to each user's feed. This [article](https://engineering.fb.com/2021/01/26/ml-applications/news-feed-ranking/) from Meta's engineering blog will give you a sense of what I'm building.
+
+Join our waitlist at [https://amirainvest.com](https://amirainvest.com) if you're interested in managing your own investments with more confidence! 
 
 
 ### Academy Summarized
@@ -29,10 +38,4 @@ Here is a pic of the UI from the app. Click here for the full [poster](https://g
 </p>
 
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jhirschibar/jhirschibar/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Thanks for READingMe!
