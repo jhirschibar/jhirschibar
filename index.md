@@ -1,4 +1,6 @@
-# Welcome to my Github Portfolio Overview!
+# Hirschibar: Code
+
+## Welcome to my Github Portfolio Overview!
 
 Here you can find out what coding projects I've been up to. Click here if you want to see my [Github profile](https://github.com/jhirschibar). Feel free to follow or to reach out if you'd like to collaborate!
 
