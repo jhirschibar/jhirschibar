@@ -16,17 +16,17 @@ I'm currently working on a recommendation engine which builds a unique model for
 I co-authored a [paper](https://github.com/jhirschibar/academia_summarized/blob/main/Arxiv_Transformer.pdf) with colleagues at GaTech where we analyzed the effects of fine-tuning an encoder-decoder transformer on State-of-the-art pretrained models using Arxiv academic paper data. We found that by extracting significant sentances from the papers, we could auto-generate summaries/abstacts better than with the non-fine-tuned version.
 
 Below is our abstract
-
-{:style="text-align:center;"}
-![abstract](/deep%20learning%20paper.png "abstact")
-
+<p align="center">
+  <img src="/deep%20learning%20paper.png">
+</p>
 
 ### Music Box: a better Spotify playlist generator
 I co-authored a poster with a team at GaTech that built an app to generate better Spotify playlists. Read about or contribute to the project [here](https://github.com/jhirschibar/music_box), or try out the app in your browser [here](https://out-of-the-music-box.herokuapp.com/)
 
-Here is a pic of the UI from the [poster](https://github.com/jhirschibar/music_box/blob/main/team065poster.pdf):
-{:style="text-align:center;"}
-![music_box](/musicbox.png "music box")
+Here is a pic of the UI from the app. Click here for the full [poster](https://github.com/jhirschibar/music_box/blob/main/team065poster.pdf):
+<p align="center">
+  <img src="/musicbox.png" height="300">
+</p>
 
 
 ### Jekyll Themes
