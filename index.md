@@ -1,13 +1,17 @@
-## Welcome to GitHub Pages
+# Code
 
-You can use the [editor on GitHub](https://github.com/jhirschibar/jhirschibar/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Here you can find out what coding projects I've been up to. Click here if you want to see my [Github profile](https://github.com/jhirschibar)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Amira Invest
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I'm building a marketplace platform that provides the structure and the incentives needed for you to trust the investment opinions you find online.
 
+The project includes over 300 PRs, and 1200 commits with 5 contributors. Follow us here so you can join as we open source components of our app. 
+
+
+### Academy Summarized
+I co-authored a paper with colleagues at GaTech where we analyzed the effects of fine-tuning 
 ```markdown
 Syntax highlighted code block
 
