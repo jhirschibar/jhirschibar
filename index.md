@@ -9,30 +9,25 @@ I'm building a marketplace platform that provides the structure and the incentiv
 
 The project includes over 300 PRs, and 1200 commits with 5 contributors. Follow us here so you can join as we open source components of our app. 
 
+I'm currently working on a recommendation engine which builds a unique model for each user to recommend content of most worth and relevance to each user's feed. This [article](https://engineering.fb.com/2021/01/26/ml-applications/news-feed-ranking/) from Meta's engineering blog will give you a sense of what I'm building.
+
 
 ### Academy Summarized
-I co-authored a paper with colleagues at GaTech where we analyzed the effects of fine-tuning an encoder-decoder transformer on State-of-the-art pretrained models using Arxiv data. We found that by extracting significant sentances from the papers, we could auto-generate summaries/abstacts better than with the non-fine-tuned version.
+I co-authored a [paper](https://github.com/jhirschibar/academia_summarized/blob/main/Arxiv_Transformer.pdf) with colleagues at GaTech where we analyzed the effects of fine-tuning an encoder-decoder transformer on State-of-the-art pretrained models using Arxiv academic paper data. We found that by extracting significant sentances from the papers, we could auto-generate summaries/abstacts better than with the non-fine-tuned version.
 
+Below is our abstract
+
+{:style="text-align:center;"}
 ![abstract](/deep%20learning%20paper.png "abstact")
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Music Box: a better Spotify playlist generator
+I co-authored a poster with a team at GaTech that built an app to generate better Spotify playlists. Read about or contribute to the project [here](https://github.com/jhirschibar/music_box), or try out the app in your browser [here](https://out-of-the-music-box.herokuapp.com/)
 
-1. Numbered
-2. List
+Here is a pic of the UI from the [poster](https://github.com/jhirschibar/music_box/blob/main/team065poster.pdf):
+{:style="text-align:center;"}
+![music_box](/musicbox.png "music box")
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
 
