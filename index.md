@@ -33,7 +33,7 @@ Below is our abstract
 </p>
 
 ### Music Box: a better Spotify playlist generator
-I co-authored a poster with a team at GaTech that built an app to generate better Spotify playlists. Read about or contribute to the project [here](https://github.com/jhirschibar/music_box), or try out the app in your browser [here](https://out-of-the-music-box.herokuapp.com/)
+I co-authored a poster with a team at GaTech that built an app to generate better Spotify playlists using clustering algorithms. Read about or contribute to the project [here](https://github.com/jhirschibar/music_box), or try out the app in your browser [here](https://out-of-the-music-box.herokuapp.com/)
 
 Here is a pic of the UI from the app. Click here for the full [poster](https://github.com/jhirschibar/music_box/blob/main/team065poster.pdf):
 <p align="center">
