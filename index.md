@@ -14,7 +14,8 @@ I'm building a marketplace platform that provides the structure and the incentiv
 <p align="center">
   <img src="/amira2.png" height="250">
 </p>
-The project includes over 300 PRs, and 1200 commits with 5 contributors. Follow us here so you can join as we open source components of our app. Sadly, this code is unable to be shared publically yet. But stay tuned! There may be changes soon! 😉
+
+The project includes over 300 PRs, and 1200 commits with 5 contributors. Follow us here so you can join as we open source components of our app. Sadly, this code is unable to be shared publically yet. But _stay tuned and [follow here](https://github.com/amirainvest)!_ There may be changes soon! 😉
 
 I'm currently working on a recommendation engine which builds a unique model for each user to recommend content of most worth and relevance to each user's feed. This [article](https://engineering.fb.com/2021/01/26/ml-applications/news-feed-ranking/) from Meta's engineering blog will give you a sense of what I'm building.
 
@@ -38,4 +39,10 @@ Here is a pic of the UI from the app. Click here for the full [poster](https://g
 </p>
 
 
+### Scratch ML: Machine Learning Algorithms written from scratch
+[Here](https://github.com/jhirschibar/scratch_ml) is where I've been collecting tools (algorithms) I've built completely from scratch as an exercise to make sure I understand them. 
+
+Initial efforts start with only using numpy and python. Once the foundations are established, I will later make use of PyTorch or other tools to build out other tools. This is a new work in progress (idea came over a year ago, which I'm just barely picking back up). 
+
+Give a follow, or DM me if you'd like to contribute. It'd be sweet to get a out-of-the-box, easy to use set of Machine Learning tools prepped into a PyPi package that learners could experiment with. 
 ## Thanks for READingMe!
