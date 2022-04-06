@@ -11,7 +11,9 @@ The project includes over 300 PRs, and 1200 commits with 5 contributors. Follow 
 
 
 ### Academy Summarized
-I co-authored a paper with colleagues at GaTech where we analyzed the effects of fine-tuning 
+I co-authored a paper with colleagues at GaTech where we analyzed the effects of fine-tuning an encoder-decoder transformer on State-of-the-art pretrained models using Arxiv data. We found that by extracting significant sentances from the papers, we could auto-generate summaries/abstacts better than with the non-fine-tuned version.
+
+![abstract](/deep%20learning%20paper.png "abstact")
 ```markdown
 Syntax highlighted code block
 
