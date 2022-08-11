@@ -4,6 +4,8 @@
 
 Here you can find out what projects I've been up to. Feel free to follow me on github or to reach out if you'd like to collaborate!
 
+Here is my [resume](https://hirschibar-resume.s3.amazonaws.com/joseph+hirschi+resume_7_22.pdf) (Updated Aug 2022) if you want to see it
+
 Checkout [hirschibar.com](https://hirschibar.com) if you haven't yet and see my social media and other updates!
 
 And now, on to the portfolio...
