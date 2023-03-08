@@ -10,7 +10,7 @@ And now, on to the portfolio...
 
 ## Company Update
 ### Amira Invest
-_(Update: Sadly, this company has been shutdown as of summer '22. My co-founder and I decided to split up, and life (aka the arrival of my second child) required I step away and get a "real job". It was a tough decision, and while it marks the end of Amira Invest, it certainly is not the end. Thanks to everyone for your support, I'm sorry it had to come to a close.)_
+_Update: Sadly, this company has been shutdown as of summer '22. My co-founder and I decided to split up, and life (aka the arrival of my second child) required I step away and get a "real job". It was a tough decision, and while it marks the end of Amira Invest, it certainly is not the end. Thanks to everyone for your support, I'm sorry it had to come to a close._
 
 _Parts of the code have been made public so you can see what we did. [Check it out](https://github.com/amirainvest/amirainvest_com)_
 
