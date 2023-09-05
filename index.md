@@ -4,7 +4,7 @@
 
 On this page you can find out what projects I've been up to. Feel free to follow me on github or to reach out if you'd like to collaborate! You can also find me on linkedin and twitter.
 
-Here is my [resume](https://hirschibar-resume.s3.amazonaws.com/resume_3_23.pdf) (Updated Mar 2023) if you want to see it.
+Here is my [resume](https://hirschibar-resume.s3.amazonaws.com/resume_9_23.pdf) (Updated Sept 2023) if you want to see it.
 
 And now, on to the portfolio...
 
