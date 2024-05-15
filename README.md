@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jhirschibar
-- 💸💰 I’m building Amira Invest. Check us out here: amirainvest.com Open-Source projects coming soon.
+- 💸💰 I’m building both an options trading and a rich messaging platform!
 - 💻 I build in python, and I put my trust in WSL2. RL, DL, ML and FastAPI
 - 📈 I’m interested in machine learning, the financial markets, and marketplaces.
 - 📫 Reach out if you want to get in touch!
