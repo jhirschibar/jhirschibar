@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog | Joseph Hirschi</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=VT323&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Animated Stock Chart Background -->
+    <canvas id="stockCanvas"></canvas>
+    
+    <!-- Scanline Overlay -->
+    <div class="scanlines"></div>
+    
+    <!-- Navigation -->
+    <nav class="pixel-nav">
+        <div class="nav-container">
+            <a href="index.html" class="nav-logo">$HIRSCHI</a>
+            <div class="nav-links">
+                <a href="index.html" class="nav-link">HOME</a>
+                <a href="blog.html" class="nav-link active">BLOG</a>
+                <a href="https://x.com/hirschibar/creator-subscriptions/subscribe" target="_blank" class="nav-link subscribe-btn">SUBSCRIBE</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <!-- Blog Header -->
+        <section class="blog-header">
+            <h1 class="page-title pixel-text">ARTICLES & INSIGHTS</h1>
+            <p class="page-subtitle">Long-form thoughts on AI, investing, and building in public</p>
+        </section>
+
+        <!-- Articles Section -->
+        <section class="articles-section">
+            <div class="articles-container pixel-border">
+                <div class="articles-header">
+                    <span class="terminal-prompt">&gt; loading_articles.exe</span>
+                    <div class="header-decoration">
+                        <span class="pixel-dot green"></span>
+                        <span class="pixel-dot yellow"></span>
+                        <span class="pixel-dot red"></span>
+                    </div>
+                </div>
+                
+                <!-- X Articles Embed -->
+                <div class="articles-embed">
+                    <a class="twitter-timeline" 
+                       data-theme="dark"
+                       data-chrome="noheader nofooter noborders transparent"
+                       data-height="800"
+                       href="https://twitter.com/hirschibar/articles">
+                       Loading articles by @hirschibar...
+                    </a>
+                    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                </div>
+
+                <!-- Fallback Link -->
+                <div class="articles-fallback">
+                    <p>Can't see the articles? <a href="https://x.com/hirschibar/articles" target="_blank" class="pixel-link">View directly on 𝕏 →</a></p>
+                </div>
+            </div>
+        </section>
+
+        <!-- CTA Section -->
+        <section class="blog-cta">
+            <div class="cta-card pixel-border">
+                <h3 class="cta-title">Want more insights?</h3>
+                <p class="cta-text">Subscribe for exclusive content on AI, investing, and tech entrepreneurship.</p>
+                <a href="https://x.com/hirschibar/creator-subscriptions/subscribe" target="_blank" class="subscribe-cta pixel-btn">
+                    <span class="ticker-up">▲</span> SUBSCRIBE NOW <span class="ticker-up">▲</span>
+                </a>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="pixel-footer">
+        <div class="footer-content">
+            <p class="footer-text">© 2026 Joseph Hirschi | Built with pixels & passion</p>
+            <div class="footer-links">
+                <a href="https://github.com/jhirschibar" target="_blank">GitHub</a>
+                <a href="https://x.com/hirschibar" target="_blank">𝕏</a>
+                <a href="https://www.linkedin.com/in/josephhirschi/" target="_blank">LinkedIn</a>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

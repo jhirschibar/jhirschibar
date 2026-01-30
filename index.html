@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Joseph Hirschi | AI/ML Engineer & Investor</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=VT323&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Animated Stock Chart Background -->
+    <canvas id="stockCanvas"></canvas>
+    
+    <!-- Scanline Overlay -->
+    <div class="scanlines"></div>
+    
+    <!-- Navigation -->
+    <nav class="pixel-nav">
+        <div class="nav-container">
+            <a href="index.html" class="nav-logo">$HIRSCHI</a>
+            <div class="nav-links">
+                <a href="index.html" class="nav-link active">HOME</a>
+                <a href="blog.html" class="nav-link">BLOG</a>
+                <a href="https://x.com/hirschibar/creator-subscriptions/subscribe" target="_blank" class="nav-link subscribe-btn">SUBSCRIBE</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <!-- Profile Section -->
+        <section class="profile-section">
+            <div class="profile-card pixel-border">
+                <div class="profile-images-wrapper">
+                    <a href="https://www.linkedin.com/in/josephhirschi/" target="_blank" class="profile-image-container">
+                        <img src="https://media.licdn.com/dms/image/v2/C5603AQGEK2f5HIo0bA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1619204781115?e=1771459200&v=beta&t=HN_Wkp5t5V3m46cwE3w1jSNqKYi-v_2mhoNourptSZ0" alt="Joseph Hirschi" class="profile-image">
+                        <div class="pixel-frame"></div>
+                    </a>
+                    <a href="https://x.com/hirschibar" target="_blank" class="profile-image-container">
+                        <img src="https://pbs.twimg.com/profile_images/2013345177314676736/EJhR2oQX_400x400.jpg" alt="Joseph Hirschi" class="profile-image" id="profileImg">
+                        <div class="pixel-frame"></div>
+                    </a>
+                </div>
+                <div class="profile-info">
+                    <h1 class="profile-name">Joseph Hirschi</h1>
+                    <p class="profile-title">AI/ML Engineer • Tech Enthusiast • Self-Directed Investor</p>
+                    <p class="profile-bio">I'm an entrepreneurial AI/ML engineer, tech enthusiast, and I manage my own money. Georgia Tech alum building at the intersection of AI and finance.</p>
+                    
+                    <!-- Social Links -->
+                    <div class="social-links">
+                        <a href="https://x.com/hirschibar" target="_blank" class="social-btn pixel-btn x-btn">
+                            <span class="btn-icon">𝕏</span>
+                            <span>@hirschibar</span>
+                        </a>
+                        <a href="https://www.linkedin.com/in/josephhirschi/" target="_blank" class="social-btn pixel-btn linkedin-btn">
+                            <span class="btn-icon">in</span>
+                            <span>LinkedIn</span>
+                        </a>
+                    </div>
+                    
+                    <!-- Subscribe CTA -->
+                    <a href="https://x.com/hirschibar/creator-subscriptions/subscribe" target="_blank" class="subscribe-cta pixel-btn">
+                        <span class="ticker-up">▲</span> SUBSCRIBE FOR ALPHA <span class="ticker-up">▲</span>
+                    </a>
+                </div>
+            </div>
+        </section>
+
+        <!-- Stats Ticker -->
+        <div class="stats-ticker">
+            <div class="ticker-content">
+                <span class="ticker-item"><span class="ticker-up">▲</span> AI/ML</span>
+                <span class="ticker-item"><span class="ticker-down">▼</span> BUGS</span>
+                <span class="ticker-item"><span class="ticker-up">▲</span> PYTHON</span>
+                <span class="ticker-item"><span class="ticker-up">▲</span> INVESTING</span>
+                <span class="ticker-item"><span class="ticker-down">▼</span> SLEEP</span>
+                <span class="ticker-item"><span class="ticker-up">▲</span> COFFEE</span>
+                <span class="ticker-item"><span class="ticker-up">▲</span> STARTUPS</span>
+                <span class="ticker-item"><span class="ticker-down">▼</span> MEETINGS</span>
+            </div>
+        </div>
+
+        <!-- Twitter Feed Section -->
+        <section class="feed-section">
+            <h2 class="section-title pixel-text">LATEST POSTS</h2>
+            <div class="feed-container pixel-border">
+                <a class="twitter-timeline" 
+                   data-theme="dark" 
+                   data-chrome="noheader nofooter noborders transparent"
+                   data-height="600"
+                   href="https://twitter.com/hirschibar?ref_src=twsrc%5Etfw">
+                   Loading tweets by @hirschibar...
+                </a>
+                <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="pixel-footer">
+        <div class="footer-content">
+            <p class="footer-text">© 2026 Joseph Hirschi | Built with pixels & passion</p>
+            <div class="footer-links">
+                <a href="https://github.com/jhirschibar" target="_blank">GitHub</a>
+                <a href="https://x.com/hirschibar" target="_blank">𝕏</a>
+                <a href="https://www.linkedin.com/in/josephhirschi/" target="_blank">LinkedIn</a>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
