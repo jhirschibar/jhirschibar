@@ -1,1 +1,14 @@
-theme: jekyll-theme-cayman
+# Disable Jekyll processing for custom HTML site
+include:
+  - index.html
+  - blog.html
+  - style.css
+  - script.js
+
+# Keep existing assets
+keep_files:
+  - amira2.png
+  - amirainvest.com.png
+  - deep learning paper.png
+  - musicbox.png
+  - Arxiv_Transformer.pdf
